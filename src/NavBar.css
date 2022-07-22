@@ -1,0 +1,16 @@
+nav{
+  display: flex;
+  align-items: center;
+  position: fixed;
+  border-bottom: 1px solid lightgray;
+  height: 80px;
+  width: 100vw;
+  background-color: #fafafa;
+}
+
+nav img{
+  height: 60px;
+  width: auto;
+  object-fit: contain;
+  padding: 0px 10px;
+}

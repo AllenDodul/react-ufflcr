@@ -1,11 +1,12 @@
 import React from "react";
+
 import "./style.css";
+import NavBar from './NavBar'
 
 export default function App() {
   return (
     <div>
-      <h1>Instagram clones project!</h1>
-      
+      <NavBar/>      
     </div>
   );
 }
