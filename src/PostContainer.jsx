@@ -8,6 +8,7 @@ function PostContainer(){
   return(
     <div className="PostContainer">
       <Post/>
+      <Post/>
     </div>
   )
 }

@@ -1,6 +1,14 @@
+.post-box{
+  background: #FFFF;
+  border: 1px solid lightgray;
+  width: 300px;
+  margin: 20px;
+}
+
 .profileDetails{
   display: flex;
   align-items: center;
+  margin-left: 10px;
   margin-bottom: 5px;
 }
 .avater{
@@ -15,4 +23,8 @@
   max-width: 300px;
   height: auto;
   width: 100vw;
+}
+.post-box h5{
+  margin: 10px;
+  font-weight: normal;
 }
